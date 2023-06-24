@@ -1,0 +1,33 @@
+{
+  "name": "com.srcnalt.readyplayerme.netcodesupport",
+  "version": "0.1.0",
+  "displayName": "Ready Player Me Netcode Support",
+  "description": "NetworkPlayer component for Ready Player Me avatars in Unity Netcode for GameObjects.",
+  "unity": "2020.3",
+  "unityRelease": "0f1",
+  "documentationUrl": "https://github.com/srcnalt/rpm-unity-sdk-netcode-support/blob/main/README.md",
+  "changelogUrl": "https://github.com/srcnalt/rpm-unity-sdk-netcode-support/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/srcnalt/rpm-unity-sdk-netcode-support/blob/main/LICENSE.md",
+  "dependencies": {
+    "com.unity.ugui": "1.0.0",
+    "com.unity.netcode.gameobjects": "1.2.0"
+  },
+  "keywords": [
+    "unity",
+    "netcode",
+    "avatar",
+    "multiplayer",
+    "network"
+  ],
+  "author": {
+    "name": "Sercan Altundas",
+    "url": "https://github.com/srcnalt"
+  },
+  "samples": [
+    {
+      "displayName": "Avatar Control",
+      "description": "A basic sample with NetworkPlayer component that shows how to use avatar in multiplayer game.",
+      "path": "Samples~/Avatar Control"
+    }
+  ]
+}
